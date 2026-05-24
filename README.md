@@ -1,8 +1,10 @@
 ## About me 👋
-I am an international student from Brazil pursuing an Associate of Applied Science in Network Administration & Cybersecurity at Southeastern Community College (GPA 3.8, Dean’s List). My academic journey has given me hands-on experience in Linux administration, Windows Server, networking, virtualization, and cybersecurity fundamentals including intrusion detection, system security, and computer forensics.
+Recent Network Administration & Cybersecurity graduate from Southeastern Community College (GPA 3.8, Honors), with hands-on experience in Microsoft 365 administration, endpoint management, cybersecurity operations, and enterprise infrastructure support.
+ 
+Gained real-world experience at Energyficient Systems as part of the company's first IT team, working with Microsoft Entra ID, Intune, Conditional Access, MFA, device provisioning, compliance documentation, and security operations. I also contributed to CMMC 2.0 / NIST SP 800-171 compliance efforts and assisted in responding to a real-world account compromise incident.
+ 
+Certified in CompTIA A+, Network+, CIOS, Cisco CCST Networking & Cybersecurity, Microsoft 365 Fundamentals, and Certiport IT Specialist certifications.
 
-Fluent in Portuguese, English, and Spanish, I bring a multicultural perspective and adaptability to diverse environments. I am also CompTIA A+ Certified, validating my knowledge of IT troubleshooting, hardware, software, operating systems, and networking fundamentals.
+Strong interest in systems administration, cybersecurity, infrastructure, and Microsoft cloud technologies. 
 
-Recognized with honors such as the Head of School Award, National Honor Society membership, and SCC Dean’s List, I combine strong technical foundations with proven teamwork, adaptability, and leadership skills developed through work-study experience and community service.
-
-I am passionate about technology, continuous learning, and problem-solving. Currently, I am seeking internship opportunities in IT, network administration, or cybersecurity to apply my skills and grow as a professional.
+Authorized to work in the United States. Originally from Brazil. Trilingual: Portuguese, English, and Spanish.
